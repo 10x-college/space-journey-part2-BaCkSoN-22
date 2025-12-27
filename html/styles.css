@@ -27,7 +27,7 @@ header {
     align-items: center;
     position: relative;
     /* Hero Image Background */
-    background: url('./assets/airport_hero.jpeg') no-repeat center center/cover;
+    background: url('../assets/airport_hero.jpeg') no-repeat center center/cover;
     overflow: hidden;
 }
 
@@ -181,7 +181,7 @@ button:hover {
 /* --- SCHEDULE (HOLOGRAM TABLE) --- */
 #schedule {
     /* Background Image: The Holographic Screen */
-    background: url('./assets/hologram_screen.jpeg') no-repeat center center/cover;
+    background: url('../assets/hologram_screen.jpeg') no-repeat center center/cover;
     padding: 100px 20px;
     position: relative;
     min-height: 100vh;
@@ -257,7 +257,7 @@ td {
 /* --- BOOKING (KIOSK FORM) --- */
 #booking {
     /* Background Image: The Kiosk */
-    background: url('./assets/kiosk_machine.jpeg') no-repeat center center/cover;
+    background: url('../assets/kiosk_machine.jpeg') no-repeat center center/cover;
     padding: 100px 20px;
     min-height: 90vh;
     display: flex;
